@@ -1,0 +1,21 @@
+zh-TW:
+  payday:
+    status:
+      paid: 付款成功
+      overdue: 已過期
+    invoice:
+      bill_to: 賬單地址
+      ship_to: 送貨地址
+      invoice_no: "賬單號碼 #:"
+      due_date: "過期日期:"
+      paid_date: "支付日期:"
+      subtotal: "小計:"
+      shipping: "郵費:"
+      tax: "稅款:"
+      total: "總計:"
+      notes: "備註"
+    line_item:
+      description: 描述
+      unit_price: 單價
+      quantity: 數量
+      amount: 合計
